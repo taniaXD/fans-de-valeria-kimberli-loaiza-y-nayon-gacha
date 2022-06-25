@@ -1,0 +1,7 @@
+body{background-color: rgba(109, 18, 194, 0.818);text-align: justify;
+
+    
+}
+#a{background: -prefix-linear-gradient(left top, blue, rgb(94, 29, 204));}
+#b{background: -prefix-linear-gradient(left top, rgb(82, 215, 215), rgb(88, 205, 255));}
+#c{background: -prefix-linear-gradient(left top, rgb(232, 232, 238), rgb(238, 114, 223));}
